@@ -101,8 +101,7 @@ The **book text, figures and content** are © 2026 Rithik Raj Vaishya. All right
 
 **Rithik Raj Vaishya** is a data science practitioner, corporate trainer and founder of **RV TechLearn LLP**, an IT training and EdTech company. He is a doctoral candidate (DBA) in Leadership & AI Strategy at ESGCI, Paris.
 
-- 💼 LinkedIn: _add your profile link_
-- 🌐 Website: _add RV TechLearn link_
+- 💼 LinkedIn: _https://www.linkedin.com/in/rithikrajvaishya/_
 
 ---
 
