@@ -1,0 +1,18 @@
+# Optional extras - only needed for some examples.
+# Install: pip install -r requirements-advanced.txt
+
+# Chapter 13 - ML Systems Design
+apache-airflow          # 13.6 Airflow DAGs (heavy; best installed in its own environment)
+confluent-kafka         # 13.5 Kafka streaming (needs a running Kafka broker)
+pyspark                 # 13.7 Spark (needs Java 17+)
+ray                     # 13.8 Distributed training
+faiss-cpu               # 13.10 Vector databases
+chromadb                # 13.10 Vector databases
+redis                   # 13.3 Feature store online layer (needs a running Redis server)
+
+# Chapter 15 - AutoML
+autogluon
+pycaret
+
+# Appendix F - TensorFlow / Keras
+tensorflow>=2.16,<2.17
