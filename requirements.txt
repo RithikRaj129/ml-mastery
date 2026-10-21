@@ -1,0 +1,51 @@
+# Machine Learning Mastery: Mathematics to MLOps
+# Companion code requirements — Python 3.11+
+# Versions match the library table in Chapter 1 of the book.
+
+# Core numerical & data
+numpy>=1.26,<2.0
+pandas>=2.2,<2.3
+pyarrow
+
+# Visualisation
+matplotlib>=3.8,<3.9
+seaborn>=0.13,<0.14
+
+# Classical ML
+scikit-learn>=1.4,<1.5
+imbalanced-learn
+umap-learn
+
+# Gradient boosting
+xgboost>=2.0,<2.1
+lightgbm>=4.0,<5.0
+catboost>=1.2,<1.3
+
+# Deep learning & NLP
+tensorflow>=2.16,<2.17
+torch>=2.3,<2.4
+torchvision
+transformers>=4.0,<5.0
+
+# Optimization & explainability
+optuna>=3.0,<4.0
+shap>=0.45,<0.46
+lime
+
+# Time series
+statsmodels
+prophet
+
+# Deployment & MLOps
+mlflow>=2.0,<3.0
+fastapi
+uvicorn
+flask
+streamlit
+onnx
+onnxruntime
+skl2onnx
+
+# Notebooks
+jupyterlab
+ipykernel
